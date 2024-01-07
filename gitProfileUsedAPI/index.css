@@ -1,0 +1,11 @@
+.nameStyle {
+  background: linear-gradient(to right, #30cfd0 0%, #330867 100%);
+  background-clip: text;
+  color: transparent;
+}
+#main {
+  background: rgba(13, 133, 176, 0.5);
+  -webkit-backdrop-filter: blur(15px);
+  backdrop-filter: blur(15px);
+  border: 1px solid rgba(13, 133, 176, 0.25);
+}
